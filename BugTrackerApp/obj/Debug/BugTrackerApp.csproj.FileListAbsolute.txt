@@ -6,4 +6,4 @@ c:\users\c3469557\documents\visual studio 2015\Projects\BugTrackerApp\BugTracker
 c:\users\c3469557\documents\visual studio 2015\Projects\BugTrackerApp\BugTrackerApp\obj\Debug\BugTrackerApp.csproj.GenerateResource.Cache
 c:\users\c3469557\documents\visual studio 2015\Projects\BugTrackerApp\BugTrackerApp\obj\Debug\BugTrackerApp.exe
 c:\users\c3469557\documents\visual studio 2015\Projects\BugTrackerApp\BugTrackerApp\obj\Debug\BugTrackerApp.pdb
-c:\users\c3469557\documents\visual studio 2015\Projects\BugTrackerApp\BugTrackerApp\obj\Debug\BugTrackerApp.Connection.resources
+C:\Users\c3469557\Documents\Visual Studio 2015\Projects\BugTrackerApp\BugTrackerApp\obj\Debug\BugTrackerApp.Form1.resources
