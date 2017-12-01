@@ -1,0 +1,9 @@
+c:\users\c3469557\documents\visual studio 2015\Projects\BugTrackerApp\BugTrackerApp\bin\Debug\BugTrackerApp.exe.config
+c:\users\c3469557\documents\visual studio 2015\Projects\BugTrackerApp\BugTrackerApp\bin\Debug\BugTrackerApp.exe
+c:\users\c3469557\documents\visual studio 2015\Projects\BugTrackerApp\BugTrackerApp\bin\Debug\BugTrackerApp.pdb
+c:\users\c3469557\documents\visual studio 2015\Projects\BugTrackerApp\BugTrackerApp\obj\Debug\BugTrackerApp.csprojResolveAssemblyReference.cache
+c:\users\c3469557\documents\visual studio 2015\Projects\BugTrackerApp\BugTrackerApp\obj\Debug\BugTrackerApp.Properties.Resources.resources
+c:\users\c3469557\documents\visual studio 2015\Projects\BugTrackerApp\BugTrackerApp\obj\Debug\BugTrackerApp.csproj.GenerateResource.Cache
+c:\users\c3469557\documents\visual studio 2015\Projects\BugTrackerApp\BugTrackerApp\obj\Debug\BugTrackerApp.exe
+c:\users\c3469557\documents\visual studio 2015\Projects\BugTrackerApp\BugTrackerApp\obj\Debug\BugTrackerApp.pdb
+c:\users\c3469557\documents\visual studio 2015\Projects\BugTrackerApp\BugTrackerApp\obj\Debug\BugTrackerApp.Connection.resources
